@@ -1,5 +1,5 @@
-import Card from "../components/card"
-export default function Card(){
+import Card from "../components/Card"
+export default function card(){
     return(
         <>
             <Card/>
